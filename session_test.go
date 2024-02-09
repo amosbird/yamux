@@ -1,4 +1,4 @@
-package yamux
+package main
 
 import (
 	"bytes"
